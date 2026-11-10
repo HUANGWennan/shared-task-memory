@@ -1,0 +1,9 @@
+/data/
+/backups/
+/imports/
+/node_modules/
+/TASK_MEMORY_RULES.md
+__pycache__/
+*.jsonl
+.env
+.env.*
